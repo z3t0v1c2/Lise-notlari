@@ -26,6 +26,9 @@ $$Q = I \cdot t$$
 
 - Devrede akımın yönü ile elektronun yönü terstir
 - Üreteçte akımın yönü (+) kutuptan (-) kutuba doğru gider iken elektronda ise (-) yönünden (+) yönüne gider
+ ![[drnc.png]]
+### Burada t (zaman) 2 saniye burada $\frac{8C + 2C}{2}$ den 5A olarak bulunur ve akımın yönü X yönüne doğrudur.
+
 ---
 ### Ohm Yasası
 
